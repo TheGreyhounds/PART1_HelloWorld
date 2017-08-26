@@ -20,12 +20,12 @@ written in this way.
 As for the actual code that runs, we are simply calling
 the function "println(String ourMessage)" which is a part
 of the static object "out," which in turn is a part of the
-module "System" (the period's denote and separate a hierarchy
-of access). Finally, the semi-colon denotes to the compiler
-that our statement has ended, which in this case and in most
-cases is on a single line (though you may certainly have a
-statement take up more than one line, so long as it is ended
-with a semi-colon).
+module "System" (in Java, periods access an instance variable 
+or a method held by the object it was called on). Finally, 
+the semi-colon signals to the compiler that our statement 
+has ended, which in this case and in most cases is on a single 
+line (though you may certainly have a statement take up more 
+than one line, so long as it is ended with a semi-colon).
 
 If this is confusing to you at all, no worries. You don't have
 to understand all of the technicals. You just need to know that
