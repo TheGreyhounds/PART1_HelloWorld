@@ -1,5 +1,5 @@
 # PART1_HelloWorld
-No worries, just a simple HelloWorld to get you started on your journey with Java
+No worries, just a simple HelloWorld to get you started on your journey with Java.
 
 The HelloWorld has a lot going on under the hood.
 For one, you may notice that the code itself is
