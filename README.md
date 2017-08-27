@@ -1,5 +1,5 @@
 # PART1_HelloWorld
-No worries, just a simple HelloWorld to get you started on your journey with Java.
+Just a simple HelloWorld to get you started on your journey with Java.
 
 The HelloWorld has a lot going on under the hood.
 For one, you may notice that the code itself is
@@ -27,8 +27,7 @@ has ended, which in this case and in most cases is on a single
 line (though you may certainly have a statement take up more 
 than one line, so long as it is ended with a semi-colon).
 
-If this is confusing to you at all, no worries. You don't have
-to understand all of the technicals. You just need to know that
-the main() function is required for every Java program, and that
-System.out.println() is the way we will be writing output to the
-console.
+You don't have to understand all of the technicals right now. 
+You just need to know that the main() function is required for 
+every Java program, and that System.out.println() is the way 
+we will be writing output to the console.
